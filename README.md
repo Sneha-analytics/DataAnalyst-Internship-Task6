@@ -32,5 +32,3 @@ Table: `orders`
 sales_trend_analysis.sql – Contains all SQL queries used for analysis.
 sales_trend_results.csv – Exported results table.
 sales_trend_results.png – Screenshot of the query output.
-
-ORDER BY totalLIMIT 3;
